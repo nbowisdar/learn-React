@@ -1,0 +1,54 @@
+.container{
+    display: inline-block;
+    height: 600px;
+    width: 1200px;
+    margin: 30px 350px;
+    background-color: rgb(211, 175, 232);
+
+}
+.grid{
+    display: grid;
+    margin: 40px;
+    width: 500px;
+    background-color: aqua;
+    margin: 0px 250px 20px;
+    float: right;
+}
+.item{
+    text-align: center;
+    margin: 10px;
+    border: solid;
+    background-color: coral;
+    width: 400px;
+}
+.my_input{
+    margin-top: 15px;
+    padding: 15px;
+    width: 150px;
+}
+.inl{
+    position: absolute;
+    padding-left: 75px;
+}
+
+.my_input:hover{
+    background-color: rgb(172, 123, 106);
+}
+.btn{
+    position: relative;
+    bottom: 75px;
+    float: right;
+
+    margin-right: 15px;
+}
+
+.sort{
+    position: absolute;
+    left: 1400px;
+    top: 100px;
+    font-size: larger;
+
+}
+.nexist{
+    text-align: center;
+}

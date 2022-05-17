@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-evenly;
+}
+
+.item{
+    padding: 5px;
+    font-size: large;
+}
